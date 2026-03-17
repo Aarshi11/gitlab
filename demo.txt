@@ -1,1 +1,3 @@
-hi from git demo
+hi from git demo again
+
+hi from new feature
