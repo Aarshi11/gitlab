@@ -1,1 +1,2 @@
 Hello from new-feature branch
+This is a new feature line
